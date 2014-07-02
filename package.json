@@ -1,0 +1,22 @@
+{
+  "name": "typewise-cmp",
+  "version": "1.0.0",
+  "description": "typewise sorting comparison fn",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/typewise-cmp.git"
+  },
+  "keywords": [
+    "typewise",
+    "bytewise",
+    "compare",
+    "sort"
+  ],
+  "author": "Nathan Zadoks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathan7/typewise-cmp/issues"
+  },
+  "homepage": "https://github.com/nathan7/typewise-cmp"
+}
