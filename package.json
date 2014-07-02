@@ -1,6 +1,6 @@
 {
   "name": "typewise-cmp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "typewise sorting comparison fn",
   "main": "index.js",
   "repository": {
