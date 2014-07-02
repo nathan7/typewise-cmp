@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/nathan7/typewise-cmp/issues"
   },
-  "homepage": "https://github.com/nathan7/typewise-cmp"
+  "homepage": "https://github.com/nathan7/typewise-cmp",
+  "dependencies": {
+    "object-keys": "^0.5.1"
+  }
 }

@@ -1,6 +1,6 @@
 'use strict'; //jshint node:true
 module.exports = cmp
-var  keys = require('object-keys')
+var  keys = Object.keys || require('object-keys')
 
 // type tags
 var NULL = 0x10
